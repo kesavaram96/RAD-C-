@@ -1,0 +1,4 @@
+C:\Users\User_2\Desktop\2016.06.07\ClassLibrary2\ClassLibrary2\bin\Debug\ClassLibrary2.dll
+C:\Users\User_2\Desktop\2016.06.07\ClassLibrary2\ClassLibrary2\bin\Debug\ClassLibrary2.pdb
+C:\Users\User_2\Desktop\2016.06.07\ClassLibrary2\ClassLibrary2\obj\Debug\ClassLibrary2.dll
+C:\Users\User_2\Desktop\2016.06.07\ClassLibrary2\ClassLibrary2\obj\Debug\ClassLibrary2.pdb

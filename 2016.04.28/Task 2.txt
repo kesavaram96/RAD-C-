@@ -1,0 +1,47 @@
+
+
+Task 2 :Using Nullable number in C#
+--------------------------------------------------------------------------------------------------------------------------------------
+using System;
+class CSharpNullableExample
+{
+	public static void Main()
+	{
+		int? number=null;
+		if(number.HasValue)
+		{
+			Console.WriteLine(" Value of the Number is : {0}",number.Value);
+		}
+		else
+		{
+			Console.WriteLine(" The Number is Undefined or Null ");
+		}
+		number=10;
+		//int myNumber1=number;//Compilation error on implicitly convert type 'int?' to 'int'.
+		int myNumber2=(int)number;//it compile but it create runtime error if number is null
+		int myNumber3=number.Value;//it compile but it create runtime error if number is null
+		
+		Console.WriteLine(" Number 2 is : {0} ",myNumber2);
+		Console.WriteLine(" Number 3 is : {0} ",myNumber3);
+	}
+}
+--------------------------------------------------------------------------------------------------------------------------------------
+Output
+
+C:\Users\user\Desktop\2013ICT26\ICT 2172\2016.04.28>CSharpNullableExample.exe
+ The Number is Undefined or Null
+ Number 2 is : 10
+ Number 3 is : 10
+
+C:\Users\user\Desktop\2013ICT26\ICT 2172\2016.04.28>
+
+--------------------------------------------------------------------------------------------------------------------------------------
+If we want to assaign a int variable as a null variable we want to declare that as int?
+Example int? number=null
+
+It has two properties
+HasValue
+Value
+
+Referance variable we can directly assaign null value
+Example : string

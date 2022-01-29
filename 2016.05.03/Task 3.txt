@@ -1,0 +1,39 @@
+
+Task 3 :Do some calcualtion using referance values in C#
+--------------------------------------------------------------------------------------------------------------------------------------
+using System;
+class RefExampleCalculation
+{
+	public static void Calcualtions(ref int add,ref int sub,ref int mul,ref double div,int a,int b)
+	{
+		add=a+b;
+		sub=a-b;
+		mul=a*b;
+		div=(double)a/(double)b;
+	}
+	
+	public static void Main()
+	{
+		int myadd=0;
+		int mysub=0;
+		int mymul=0;
+		double mydiv=0;
+		int x=25;
+		int y=12;
+		Calcualtions(ref myadd,ref mysub,ref mymul,ref mydiv,x,y);
+		Console.WriteLine(" {0} + {1} = {2} ",x,y,myadd);
+		Console.WriteLine(" {0} - {1} = {2} ",x,y,mysub);
+		Console.WriteLine(" {0} * {1} = {2} ",x,y,mymul);
+		Console.WriteLine(" {0} / {1} = {2} ",x,y,mydiv);
+	}
+}
+--------------------------------------------------------------------------------------------------------------------------------------
+C:\Users\user\Desktop\2013ICT26\ICT 2172\2016.05.03>RefExampleCalculation.exe
+ 25 + 12 = 37
+ 25 - 12 = 13
+ 25 * 12 = 300
+ 25 / 12 = 2.08333333333333
+
+C:\Users\user\Desktop\2013ICT26\ICT 2172\2016.05.03>
+--------------------------------------------------------------------------------------------------------------------------------------
+When we call a ref variable in main method we must first intialze it.

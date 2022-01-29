@@ -1,0 +1,4 @@
+String ip="192.168.10.1";
+String[] arr=ip.split('.');
+arr[0]->192;
+arr[1]->168;

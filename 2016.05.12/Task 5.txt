@@ -1,0 +1,48 @@
+
+Task 5 :Using delegate method as string type method in C#
+--------------------------------------------------------------------------------------------------------------------------------------
+using System;
+class DelgateEx1
+{
+	
+	private delegate string GetMessage(string msg);
+	
+	public static string SayHi(string name)
+	{
+		return " Hi "+name+" ! ";
+	}
+	
+	public static string SayHello(string name)
+	{
+		return " Hello "+name+" ! ";
+	}
+	
+	/* public static void SayGoodBye(string name)
+	{
+		Console.WriteLine(" GoodBye "+name+" ! ");
+	}
+	
+	private static void MethodWithCallBack(int param1,int param2,GetMessage callback)
+	{
+		callback(" The Number is : "+(param1+param2).ToString());
+	} */
+	
+	public static void Main()
+	{
+		GetMessage gmsg1=SayHi;
+		Console.WriteLine(gmsg1("Dushi"));
+		GetMessage gmsg2=SayHello;
+		Console.WriteLine(gmsg2("MAnoj"));
+	}
+}
+--------------------------------------------------------------------------------------------------------------------------------------
+Output
+
+C:\Users\user\Desktop\2013ICT26\ICT 2172\2016.05.12>DelgateEx1.exe
+ Hi Dushi !
+ Hello MAnoj !
+
+C:\Users\user\Desktop\2013ICT26\ICT 2172\2016.05.12>
+
+--------------------------------------------------------------------------------------------------------------------------------------
+If we use delegate method as a string type method then we want to change all the methods that involve with that delegate method as string.

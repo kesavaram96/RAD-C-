@@ -1,0 +1,9 @@
+G:\Semester 3\Rapid Application Development\project 8\Calculator\Calculator\bin\Debug\Calculator.exe.config
+G:\Semester 3\Rapid Application Development\project 8\Calculator\Calculator\bin\Debug\Calculator.exe
+G:\Semester 3\Rapid Application Development\project 8\Calculator\Calculator\bin\Debug\Calculator.pdb
+G:\Semester 3\Rapid Application Development\project 8\Calculator\Calculator\obj\Debug\Calculator.csprojResolveAssemblyReference.cache
+G:\Semester 3\Rapid Application Development\project 8\Calculator\Calculator\obj\Debug\Calculator.calculator.resources
+G:\Semester 3\Rapid Application Development\project 8\Calculator\Calculator\obj\Debug\Calculator.Properties.Resources.resources
+G:\Semester 3\Rapid Application Development\project 8\Calculator\Calculator\obj\Debug\Calculator.csproj.GenerateResource.Cache
+G:\Semester 3\Rapid Application Development\project 8\Calculator\Calculator\obj\Debug\Calculator.exe
+G:\Semester 3\Rapid Application Development\project 8\Calculator\Calculator\obj\Debug\Calculator.pdb

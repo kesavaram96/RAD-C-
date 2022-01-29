@@ -1,0 +1,3 @@
+Setting path for C#
+Goto C drive-> C:\Windows\Microsoft.NET\Framework\v4.0.30319
+In cmd path=C:\Windows\Microsoft.NET\Framework\v4.0.30319

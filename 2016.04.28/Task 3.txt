@@ -1,0 +1,32 @@
+
+
+Task 3 :Using Nullable number addition ,post increment in C#
+--------------------------------------------------------------------------------------------------------------------------------------
+using System;
+class CSharpNullableExample1
+{
+	public static void Main()
+	{
+		int? number1=10;
+		number1++;
+		
+		int? number2=20;
+		number2++;
+		
+		int number3=(int)number1+(int)number2;
+		
+		Console.WriteLine(" Number3 = {0} ",number3);
+	}
+}
+--------------------------------------------------------------------------------------------------------------------------------------
+Output
+
+C:\Users\user\Desktop\2013ICT26\ICT 2172\2016.04.28>CSharpNullableExample1.exe
+ Number3 = 32
+
+C:\Users\user\Desktop\2013ICT26\ICT 2172\2016.04.28>
+
+
+
+--------------------------------------------------------------------------------------------------------------------------------------
+If we want to add two nullable numbers those numbers data type must be same or we want to do type casting

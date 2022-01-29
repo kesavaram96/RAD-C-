@@ -1,0 +1,10 @@
+C:\Users\user\Desktop\2016_06_02\validateregnumber\validateregnumber\bin\Debug\validateregnumber.exe.config
+C:\Users\user\Desktop\2016_06_02\validateregnumber\validateregnumber\obj\Debug\validateregnumber.csprojResolveAssemblyReference.cache
+C:\Users\user\Desktop\2016_06_02\validateregnumber\validateregnumber\obj\Debug\validateregnumber.Form1.resources
+C:\Users\user\Desktop\2016_06_02\validateregnumber\validateregnumber\obj\Debug\validateregnumber.Properties.Resources.resources
+C:\Users\user\Desktop\2016_06_02\validateregnumber\validateregnumber\obj\Debug\validateregnumber.csproj.GenerateResource.Cache
+G:\ICT 21\ICT 2172\2016_06_02\validateregnumber\validateregnumber\bin\Debug\validateregnumber.exe.config
+G:\ICT 21\ICT 2172\2016_06_02\validateregnumber\validateregnumber\obj\Debug\validateregnumber.csprojResolveAssemblyReference.cache
+G:\ICT 21\ICT 2172\2016_06_02\validateregnumber\validateregnumber\obj\Debug\validateregnumber.Form1.resources
+G:\ICT 21\ICT 2172\2016_06_02\validateregnumber\validateregnumber\obj\Debug\validateregnumber.Properties.Resources.resources
+G:\ICT 21\ICT 2172\2016_06_02\validateregnumber\validateregnumber\obj\Debug\validateregnumber.csproj.GenerateResource.Cache

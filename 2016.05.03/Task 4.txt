@@ -1,0 +1,43 @@
+
+Task 4 :Using out values in C#
+--------------------------------------------------------------------------------------------------------------------------------------
+using System;
+class OutExample
+{
+	public static void MyOutMethod(out int x,int y)
+	{
+		x=y+100;
+	}
+	
+	public static void MyMethod(int x,int y)
+	{
+		x=110;
+	}
+	
+	public static void Main()
+	{
+		int value=20;
+		int val2=50;
+		
+		Console.WriteLine(" Before calling methods,value is : {0} ",value);
+		MyMethod(value,val2);
+		Console.WriteLine(" After calling MyMethod,value is : {0} ",value);
+		MyOutMethod(out value,val2);
+		Console.WriteLine(" After calling MyOutMethod,value is : {0} ",value);
+		val2=100;
+		int value2;
+		MyOutMethod(out value2,val2);
+		Console.WriteLine(" After calling MyOutMethod,value2 is : {0} ",value2);
+	}
+}
+--------------------------------------------------------------------------------------------------------------------------------------
+C:\Users\user\Desktop\2013ICT26\ICT 2172\2016.05.03>OutExample.exe
+ Before calling methods,value is : 20
+ After calling MyMethod,value is : 20
+ After calling MyOutMethod,value is : 150
+ After calling MyOutMethod,value2 is : 200
+
+C:\Users\user\Desktop\2013ICT26\ICT 2172\2016.05.03>
+--------------------------------------------------------------------------------------------------------------------------------------
+In here we do not want to intialize.
+Key word for Out variable is : out

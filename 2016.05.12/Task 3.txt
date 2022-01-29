@@ -1,0 +1,55 @@
+
+Task 3 :Using composed delegate and seperate delegate technique in C#
+--------------------------------------------------------------------------------------------------------------------------------------
+using System;
+class DelgateEx
+{
+	//Declare a delegate
+	private delegate void GetMessage(string msg);
+	
+	public static void MyMessage(string mymsg)
+	{
+		Console.WriteLine(mymsg);
+	}
+	
+	public static void SayHi(string name)
+	{
+		Console.WriteLine(" Hi "+name+" ! ");
+	}
+	
+	public static void SayHello(string name)
+	{
+		Console.WriteLine(" Hello "+name+" ! ");
+	}
+	
+	public static void SayGoodBye(string name)
+	{
+		Console.WriteLine(" GoodBye "+name+" ! ");
+	}
+	
+	public static void Main()
+	{
+		GetMessage gmsg2=SayHi;
+		GetMessage gmsg3=SayHello;
+		GetMessage gmsg4=SayGoodBye;
+
+		GetMessage gmsga=gmsg2+gmsg3+gmsg4;
+		gmsga("Abi");
+		
+		GetMessage gmsgb=gmsga-gmsg3;
+		gmsgb("Mohamad");
+	}
+}
+--------------------------------------------------------------------------------------------------------------------------------------
+Output
+
+C:\Users\user\Desktop\2013ICT26\ICT 2172\2016.05.12>DelgateEx.exe
+ Hi Abi !
+ Hello Abi !
+ GoodBye Abi !
+ Hi Mohamad !
+ GoodBye Mohamad !
+
+--------------------------------------------------------------------------------------------------------------------------------------
+In here we can call those three methods in one line we don't want separate lines.Likewise if we don't want to call a method we can separate
+that method in one line.

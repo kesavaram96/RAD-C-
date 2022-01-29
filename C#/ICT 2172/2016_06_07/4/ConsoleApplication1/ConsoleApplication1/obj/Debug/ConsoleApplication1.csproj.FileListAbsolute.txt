@@ -1,0 +1,5 @@
+C:\Users\user\Desktop\2016_06_07\4\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+C:\Users\user\Desktop\2016_06_07\4\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+C:\Users\user\Desktop\2016_06_07\4\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+C:\Users\user\Desktop\2016_06_07\4\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+C:\Users\user\Desktop\2016_06_07\4\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb

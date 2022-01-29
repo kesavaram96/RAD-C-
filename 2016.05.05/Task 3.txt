@@ -1,0 +1,92 @@
+using System;
+namespace Example
+{
+	class PropertiesExample
+	{
+		private string sName;
+		private int sAge;
+		private string sAddress;
+		
+		public void SetValue(string s,int a)
+		{
+			sName=s;
+			sAge=a;
+		}
+		
+		public string GetName()
+		{
+			return sName;
+		}
+		
+		public int GetAge()
+		{
+			return sAge;
+		}
+		
+		public string Name
+		{
+			get
+			{
+				return sName;
+			}
+			set
+			{
+				sName=value;
+			}
+		}
+		
+		public int Age
+		{
+			get
+			{
+				return sAge;
+			}
+			set
+			{
+				if(value>18 && value<70)
+				{
+					sAge=value;
+				}
+			}
+		}
+		
+		public string Address
+		{
+			get
+			{
+				return sAddress;
+			}
+			private set
+			{
+				sAddress=value;
+			}
+		}
+	}
+}
+
+
+
+
+using System;
+using Example;
+class PropertiesExampleApp
+{
+	public static void Main()
+	{
+		
+		Example.PropertiesExample P=new Example.PropertiesExample();
+		
+		/* Console.Write(" \n Enter Your Name : ");
+		string name=Console.ReadLine();
+		
+		Console.Write(" \n Enter Your Age : ");
+		int age=int.Parse(Console.ReadLine()); */
+		
+		//P.SetValue(name,age);
+		
+		P.Name="Vickey";
+		P.Age=21;
+		Console.Write(" \n Your Name is  : {0} ",P.Name);
+		Console.Write(" \n Your Name is  : {0} ",P.Age);
+	}
+}

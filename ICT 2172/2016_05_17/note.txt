@@ -1,0 +1,28 @@
+class:
+*multiple variables may have a reference to the same object
+*it is possible for  operations on one variable to effect the object
+ reference by the other variable
+*classes are reference types
+*with classes multiple variables may have reference to the same object
+*object of classes are stored within the heap memory and its reference 
+will be maintain at the stack.
+
+
+structure:
+*the variables each have their own copy of the data and it is not 
+possible for operations on one to effect the other
+
+*structs do not support user specified inheritance and they implicitly 
+inherit from type object.
+
+*struct are value types and contain data and functions
+
+*they do not require heap allocation
+
+*they directly store their data int the stack
+
+*constructors are invoked with the new operator but that does not allocate 
+memory on the heap
+
+*struct construct simply returns the struct value itself and this value 
+is the copied as necessary

@@ -1,0 +1,80 @@
+
+
+Task 5 :Using partial class in c#
+--------------------------------------------------------------------------------------------------------------------------------------
+using System;
+namespace CSharpPartialClass
+{
+	public partial class CSharpPartialClassExample
+	{
+		private string name;
+		private string regNo;
+		private int age;
+		private string stream;
+		
+		public void readDetails()
+		{
+			Console.WriteLine(" Enter your Name : ");
+			name=Console.ReadLine();
+			Console.WriteLine(" Enter your Registration No : ");
+			regNo=Console.ReadLine();
+			Console.WriteLine(" Enter your Age : ");
+			age=int.Parse(Console.ReadLine());
+			Console.WriteLine(" Enter your Stream : ");
+			stream=Console.ReadLine();
+		}
+	}
+}
+
+using System;
+namespace CSharpPartialClass
+{
+	public partial class CSharpPartialClassExample
+	{
+		public void printDetails()
+		{
+			Console.WriteLine(" Your Name is : {0} ",name);
+			Console.WriteLine(" Your Registration No is : {0} ",regNo);
+			Console.WriteLine(" Your Age is : {0} ",age);
+			Console.WriteLine(" Your Stream is : {0} ",stream);
+		}
+		
+	}
+}
+
+using System;
+using CSharpPartialClass;
+public class CSharpPartialClassApp
+{
+	public static void Main()
+	{
+		CSharpPartialClassExample C=new CSharpPartialClassExample();
+		C.readDetails();
+		C.printDetails();
+	}
+}
+
+--------------------------------------------------------------------------------------------------------------------------------------
+C:\Users\user\Desktop\2013ICT26\ICT 2172\2016.04.28>csc CSharpPartialClassApp.cs CSharpPartialClassExample.cs CSharpPartialClassExample1.cs
+C:\Users\User\Desktop>CSharpPartialClassApp.exe
+ Enter your Name :
+ vickey
+ Enter your Registration No :
+ 2013/ICT/26
+ Enter your Age :
+ 21
+ Enter your Stream :
+ ICT
+
+ Your Name is : vickey
+ Your Registration No is : 2013/ICT/26
+ Your Age is : 21
+ Your Stream is : ICT
+
+C:\Users\User\Desktop>
+--------------------------------------------------------------------------------------------------------------------------------------
+Using partial class we can maintain 2 or more files for a class
+But namespace must be same 
+
+To compile:C:\Users\user\Desktop\2013ICT26\ICT 2172\2016.04.28>csc CSharpPartialClassApp.cs CSharpPartialClassExample.cs CSharpPartialClassExample1.cs
+To run:CSharpPartialClassExample2.exe

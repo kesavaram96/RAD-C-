@@ -1,0 +1,1 @@
+MessageBox.Show(Message, Capture, MessageBoxButtons.YesNoCancel,MessageBoxIcon.Asterisk, MessageBoxDefaultButton.Button1);

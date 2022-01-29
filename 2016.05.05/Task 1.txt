@@ -1,0 +1,50 @@
+
+Task 1 :Using params keyword in c#
+--------------------------------------------------------------------------------------------------------------------------------------
+using System;
+public class ParamsExample
+{
+	public static int SumIntegerWithParams(params int []numbers)
+	{
+		int sum=0;
+		for(int i=0;i<numbers.Length;i++)
+		{
+			sum+=numbers[i];
+		}
+		return sum;
+	}
+
+	public static int SumIntegers(int []numbers)
+	{
+		int sum=0;
+		for(int i=0;i<numbers.Length;i++)
+		{
+			sum+=numbers[i];
+		}
+		return sum;
+	}
+	
+	public static void Main()
+	{
+		int [] numbers={1,2,3,4,5};
+		Console.WriteLine(" Sum of the array in normal method : {0}",SumIntegers(numbers));
+		Console.WriteLine(" Sum of the array in params method : {0}",SumIntegerWithParams(1,2,3,4,5,6));
+		Console.WriteLine(" Sum of the array in params method : {0}",SumIntegerWithParams(3,4,7,9));
+		Console.WriteLine(" Sum of the array in params method : {0}",SumIntegerWithParams());
+		int []myArray={4,5,2,8,9};
+		Console.WriteLine(" Sum of the array in params method : {0}",SumIntegerWithParams(myArray));
+	}
+}
+--------------------------------------------------------------------------------------------------------------------------------------
+Output
+
+C:\Users\user\Desktop\2013ICT26\ICT 2172\2016.05.05>ParamsExample.exe
+ Sum of the array in normal method : 15
+ Sum of the array in params method : 21
+ Sum of the array in params method : 23
+ Sum of the array in params method : 0
+ Sum of the array in params method : 28
+
+C:\Users\user\Desktop\2013ICT26\ICT 2172\2016.05.05>
+--------------------------------------------------------------------------------------------------------------------------------------
+When we use params keyword in an array we do not want specify the array when we it as a parameter

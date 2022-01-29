@@ -1,0 +1,65 @@
+
+Task 2 :Accessing private variables in out of its own class in c#
+--------------------------------------------------------------------------------------------------------------------------------------
+using System;
+namespace Example
+{
+	class PropertiesExample
+	{
+		private string sName;
+		private int sAge;
+		
+		public void SetValue(string s,int a)
+		{
+			sName=s;
+			sAge=a;
+		}
+		
+		public string GetName()
+		{
+			return sName;
+		}
+		
+		public int GetAge()
+		{
+			return sAge;
+		}
+	}
+}
+
+using System;
+using Example;
+class PropertiesExampleApp
+{
+	public static void Main()
+	{
+		
+		Example.PropertiesExample P=new Example.PropertiesExample();
+		
+		Console.Write(" \n Enter Your Name : ");
+		string name=Console.ReadLine();
+		
+		Console.Write(" \n Enter Your Age : ");
+		int age=int.Parse(Console.ReadLine());
+		
+		P.SetValue(name,age);
+		Console.Write(" \n Your Name is  : {0} ",P.GetName());
+		Console.Write(" \n Your Name is  : {0} ",P.GetAge());
+	}
+}
+
+--------------------------------------------------------------------------------------------------------------------------------------
+Output
+
+C:\Users\user\Desktop\2013ICT26\ICT 2172\2016.05.05>csc PropertiesExampleApp.cs PropertiesExample.cs
+C:\Users\user\Desktop\2013ICT26\ICT 2172\2016.05.05>PropertiesExampleApp.exe
+
+ Enter Your Name : VICKEY
+
+ Enter Your Age : 21
+
+ Your Name is  : VICKEY
+ Your Name is  : 21
+
+--------------------------------------------------------------------------------------------------------------------------------------
+When we create app class for a class we must create namespace for that class

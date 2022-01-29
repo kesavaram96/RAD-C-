@@ -1,0 +1,9 @@
+C:\Users\User_2\Desktop\2016_05_26\decimaltobinary\decimaltobinary\bin\Debug\decimaltobinary.exe.config
+C:\Users\User_2\Desktop\2016_05_26\decimaltobinary\decimaltobinary\obj\Debug\decimaltobinary.csprojResolveAssemblyReference.cache
+C:\Users\User_2\Desktop\2016_05_26\decimaltobinary\decimaltobinary\obj\Debug\decimaltobinary.Form1.resources
+C:\Users\User_2\Desktop\2016_05_26\decimaltobinary\decimaltobinary\obj\Debug\decimaltobinary.Properties.Resources.resources
+C:\Users\User_2\Desktop\2016_05_26\decimaltobinary\decimaltobinary\obj\Debug\decimaltobinary.csproj.GenerateResource.Cache
+C:\Users\User_2\Desktop\2016_05_26\decimaltobinary\decimaltobinary\bin\Debug\decimaltobinary.exe
+C:\Users\User_2\Desktop\2016_05_26\decimaltobinary\decimaltobinary\bin\Debug\decimaltobinary.pdb
+C:\Users\User_2\Desktop\2016_05_26\decimaltobinary\decimaltobinary\obj\Debug\decimaltobinary.exe
+C:\Users\User_2\Desktop\2016_05_26\decimaltobinary\decimaltobinary\obj\Debug\decimaltobinary.pdb

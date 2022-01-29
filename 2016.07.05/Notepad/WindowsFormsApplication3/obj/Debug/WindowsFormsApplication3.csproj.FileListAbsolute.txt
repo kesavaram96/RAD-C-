@@ -1,0 +1,18 @@
+C:\Users\user\Desktop\2013ICT26\ICT 2172\2016.07.05\WindowsFormsApplication3\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.exe.config
+C:\Users\user\Desktop\2013ICT26\ICT 2172\2016.07.05\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Form1.resources
+C:\Users\user\Desktop\2013ICT26\ICT 2172\2016.07.05\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Properties.Resources.resources
+C:\Users\user\Desktop\2013ICT26\ICT 2172\2016.07.05\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.csproj.GenerateResource.Cache
+C:\Users\user\Desktop\2013ICT26\ICT 2172\2016.07.05\WindowsFormsApplication3\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.exe
+C:\Users\user\Desktop\2013ICT26\ICT 2172\2016.07.05\WindowsFormsApplication3\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.pdb
+C:\Users\user\Desktop\2013ICT26\ICT 2172\2016.07.05\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.exe
+C:\Users\user\Desktop\2013ICT26\ICT 2172\2016.07.05\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.pdb
+C:\Users\user\Desktop\2013ICT26\ICT 2172\2016.07.05\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Form2.resources
+E:\Vavuniya Campus\2nd year\1st semester\ICT 2172\Notes\2016.07.05\Notepad\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.exe.config
+E:\Vavuniya Campus\2nd year\1st semester\ICT 2172\Notes\2016.07.05\Notepad\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.exe
+E:\Vavuniya Campus\2nd year\1st semester\ICT 2172\Notes\2016.07.05\Notepad\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.pdb
+E:\Vavuniya Campus\2nd year\1st semester\ICT 2172\Notes\2016.07.05\Notepad\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.exe
+E:\Vavuniya Campus\2nd year\1st semester\ICT 2172\Notes\2016.07.05\Notepad\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.pdb
+E:\Vavuniya Campus\2nd year\1st semester\ICT 2172\Notes\2016.07.05\Notepad\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Form1.resources
+E:\Vavuniya Campus\2nd year\1st semester\ICT 2172\Notes\2016.07.05\Notepad\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Form2.resources
+E:\Vavuniya Campus\2nd year\1st semester\ICT 2172\Notes\2016.07.05\Notepad\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Properties.Resources.resources
+E:\Vavuniya Campus\2nd year\1st semester\ICT 2172\Notes\2016.07.05\Notepad\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.csproj.GenerateResource.Cache

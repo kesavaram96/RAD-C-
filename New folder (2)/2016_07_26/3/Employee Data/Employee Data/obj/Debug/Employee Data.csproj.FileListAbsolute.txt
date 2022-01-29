@@ -1,0 +1,12 @@
+G:\ICT 2172\2016_07_26\3\Employee Data\Employee Data\bin\Debug\Employee Data.exe.config
+C:\Users\User\Desktop\New folder (2)\2016_07_26\3\Employee Data\Employee Data\bin\Debug\Employee Data.exe.config
+C:\Users\User\Desktop\New folder (2)\2016_07_26\3\Employee Data\Employee Data\bin\Debug\Employee.mdf
+C:\Users\User\Desktop\New folder (2)\2016_07_26\3\Employee Data\Employee Data\bin\Debug\Employee_log.ldf
+C:\Users\User\Desktop\New folder (2)\2016_07_26\3\Employee Data\Employee Data\bin\Debug\Employee Data.exe
+C:\Users\User\Desktop\New folder (2)\2016_07_26\3\Employee Data\Employee Data\bin\Debug\Employee Data.pdb
+C:\Users\User\Desktop\New folder (2)\2016_07_26\3\Employee Data\Employee Data\obj\Debug\Employee Data.csprojResolveAssemblyReference.cache
+C:\Users\User\Desktop\New folder (2)\2016_07_26\3\Employee Data\Employee Data\obj\Debug\Employee_Data.Form1.resources
+C:\Users\User\Desktop\New folder (2)\2016_07_26\3\Employee Data\Employee Data\obj\Debug\Employee_Data.Properties.Resources.resources
+C:\Users\User\Desktop\New folder (2)\2016_07_26\3\Employee Data\Employee Data\obj\Debug\Employee Data.csproj.GenerateResource.Cache
+C:\Users\User\Desktop\New folder (2)\2016_07_26\3\Employee Data\Employee Data\obj\Debug\Employee Data.exe
+C:\Users\User\Desktop\New folder (2)\2016_07_26\3\Employee Data\Employee Data\obj\Debug\Employee Data.pdb

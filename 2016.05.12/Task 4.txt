@@ -1,0 +1,34 @@
+
+Task 4 :Using delegate as a parameter technique in C#
+--------------------------------------------------------------------------------------------------------------------------------------
+using System;
+class DelgateEx
+{
+	//Declare a delegate
+	private delegate void GetMessage(string msg);
+	
+	public static void MyMessage(string mymsg)
+	{
+		Console.WriteLine(mymsg);
+	}
+	
+	private static void MethodWithCallBack(int param1,int param2,GetMessage callback)
+	{
+		callback(" The Number is : "+(param1+param2).ToString());
+	}
+	
+	public static void Main()
+	{
+	
+		GetMessage handler=MyMessage;
+		MethodWithCallBack(12,24,handler);
+	}
+}
+--------------------------------------------------------------------------------------------------------------------------------------
+Output
+
+C:\Users\user\Desktop\2013ICT26\ICT 2172\2016.05.12>DelgateEx.exe
+ The Number is : 36
+
+--------------------------------------------------------------------------------------------------------------------------------------
+We can use the delegate as a parameter also.

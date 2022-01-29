@@ -1,0 +1,33 @@
+
+
+Task 1 :Basic concepts of C# program
+		Print a message in C#
+--------------------------------------------------------------------------------------------------------------------------------------
+class CSharpExample
+{
+	public static void Main()
+	{
+		System.Console.WriteLine(" Hi C# ");
+	}
+}
+--------------------------------------------------------------------------------------------------------------------------------------
+Output
+
+C:\Users\user\Desktop\2013ICT26\ICT 2172\2016.04.26>csc CSharpExample.cs
+Microsoft (R) Visual C# Compiler version 4.0.30319.18408
+for Microsoft (R) .NET Framework 4.5
+Copyright (C) Microsoft Corporation. All rights reserved.
+
+
+C:\Users\user\Desktop\2013ICT26\ICT 2172\2016.04.26>CSharpExample.exe
+ Hi C#
+
+C:\Users\user\Desktop\2013ICT26\ICT 2172\2016.04.26>
+
+--------------------------------------------------------------------------------------------------------------------------------------
+System-pakage
+Console-class
+WriteLine-method
+
+To compile in C# csc FileName.csc
+To run in C# FileName.exe

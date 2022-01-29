@@ -1,0 +1,12 @@
+G:\ICT 21\ICT 2172\2016-07-05\Media Player\Media Player\bin\Debug\Media Player.exe.config
+G:\ICT 21\ICT 2172\2016-07-05\Media Player\Media Player\bin\Debug\Media Player.exe
+G:\ICT 21\ICT 2172\2016-07-05\Media Player\Media Player\bin\Debug\Media Player.pdb
+G:\ICT 21\ICT 2172\2016-07-05\Media Player\Media Player\obj\Debug\Media Player.csprojResolveAssemblyReference.cache
+G:\ICT 21\ICT 2172\2016-07-05\Media Player\Media Player\obj\Debug\Media_Player.Form1.resources
+G:\ICT 21\ICT 2172\2016-07-05\Media Player\Media Player\obj\Debug\Media_Player.Properties.Resources.resources
+G:\ICT 21\ICT 2172\2016-07-05\Media Player\Media Player\obj\Debug\Media Player.csproj.GenerateResource.Cache
+G:\ICT 21\ICT 2172\2016-07-05\Media Player\Media Player\obj\Debug\Media Player.exe
+G:\ICT 21\ICT 2172\2016-07-05\Media Player\Media Player\obj\Debug\Media Player.pdb
+H:\Media Player\Media Player\bin\Debug\Media Player.exe.config
+H:\Media Player\Media Player\obj\Debug\Media Player.exe
+H:\Media Player\Media Player\obj\Debug\Media Player.pdb

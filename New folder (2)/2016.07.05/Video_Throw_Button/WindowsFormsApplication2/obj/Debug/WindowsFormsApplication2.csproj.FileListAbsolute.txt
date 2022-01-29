@@ -1,0 +1,28 @@
+C:\Users\user\Desktop\2013ICT26\ICT 2172\2016.07.05\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe.config
+C:\Users\user\Desktop\2013ICT26\ICT 2172\2016.07.05\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.csprojResolveAssemblyReference.cache
+C:\Users\user\Desktop\2013ICT26\ICT 2172\2016.07.05\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\Interop.WMPLib.dll
+C:\Users\user\Desktop\2013ICT26\ICT 2172\2016.07.05\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\user\Desktop\2013ICT26\ICT 2172\2016.07.05\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.csproj.ResolveComReference.cache
+C:\Users\user\Desktop\2013ICT26\ICT 2172\2016.07.05\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Form1.resources
+C:\Users\user\Desktop\2013ICT26\ICT 2172\2016.07.05\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Properties.Resources.resources
+C:\Users\user\Desktop\2013ICT26\ICT 2172\2016.07.05\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.csproj.GenerateResource.Cache
+C:\Users\user\Desktop\2013ICT26\ICT 2172\2016.07.05\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe
+C:\Users\user\Desktop\2013ICT26\ICT 2172\2016.07.05\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.pdb
+C:\Users\user\Desktop\2013ICT26\ICT 2172\2016.07.05\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\Interop.WMPLib.dll
+C:\Users\user\Desktop\2013ICT26\ICT 2172\2016.07.05\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\user\Desktop\2013ICT26\ICT 2172\2016.07.05\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.exe
+C:\Users\user\Desktop\2013ICT26\ICT 2172\2016.07.05\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.pdb
+C:\Users\User\Desktop\New folder (2)\2016.07.05\Video_Throw_Button\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe.config
+C:\Users\User\Desktop\New folder (2)\2016.07.05\Video_Throw_Button\WindowsFormsApplication2\obj\Debug\Interop.WMPLib.dll
+C:\Users\User\Desktop\New folder (2)\2016.07.05\Video_Throw_Button\WindowsFormsApplication2\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\User\Desktop\New folder (2)\2016.07.05\Video_Throw_Button\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.csproj.ResolveComReference.cache
+C:\Users\User\Desktop\New folder (2)\2016.07.05\Video_Throw_Button\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.exe
+C:\Users\User\Desktop\New folder (2)\2016.07.05\Video_Throw_Button\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.pdb
+C:\Users\User\Desktop\New folder (2)\2016.07.05\Video_Throw_Button\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe
+C:\Users\User\Desktop\New folder (2)\2016.07.05\Video_Throw_Button\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.pdb
+C:\Users\User\Desktop\New folder (2)\2016.07.05\Video_Throw_Button\WindowsFormsApplication2\bin\Debug\Interop.WMPLib.dll
+C:\Users\User\Desktop\New folder (2)\2016.07.05\Video_Throw_Button\WindowsFormsApplication2\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\User\Desktop\New folder (2)\2016.07.05\Video_Throw_Button\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.csprojResolveAssemblyReference.cache
+C:\Users\User\Desktop\New folder (2)\2016.07.05\Video_Throw_Button\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Form1.resources
+C:\Users\User\Desktop\New folder (2)\2016.07.05\Video_Throw_Button\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Properties.Resources.resources
+C:\Users\User\Desktop\New folder (2)\2016.07.05\Video_Throw_Button\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.csproj.GenerateResource.Cache

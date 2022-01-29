@@ -1,0 +1,30 @@
+using System;
+using System.Drawing;
+using System.Windows.Forms;
+
+namespace WindowsFormsApplication1
+{
+    public partial class Form1 : Form
+    {
+        public Form1()
+        {
+            InitializeComponent();
+        }
+
+        private void button1_Click(object sender, EventArgs e)
+        {
+            FontDialog dlg = new FontDialog();
+            dlg.ShowDialog();
+
+            if (dlg.ShowDialog() == DialogResult.OK)
+            {
+                string fontName;
+                float  fontSize;
+                fontName = dlg.Font.Name;
+                fontSize = dlg.Font.Size;
+                MessageBox.Show(fontName + "    " + fontSize );
+            }
+        }
+    }
+}
+

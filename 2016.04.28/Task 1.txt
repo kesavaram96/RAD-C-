@@ -1,0 +1,63 @@
+
+
+Task 1 :Using Two Dimensial Array in C#
+--------------------------------------------------------------------------------------------------------------------------------------
+using System;
+class CSharp2DArray
+{
+	public static void Main()
+	{
+		string [,]names=new string[5,2];
+		int rowSize=names.GetLength(0);
+		int colSize=names.GetLength(1);
+		
+		for(int i=0;i<rowSize;i++)
+		{
+			Console.Write(" \n Enter the FirstName and LastName : ");
+			for(int j=0;j<colSize;j++)
+			{
+				names[i,j]=Console.ReadLine();
+			}
+		}
+		
+		for(int i=0;i<rowSize;i++)
+		{
+			for(int j=0;j<colSize;j++)
+			{
+				Console.Write(" "+names[i,j]);
+			}
+				Console.WriteLine();
+		}
+	}
+	
+}
+--------------------------------------------------------------------------------------------------------------------------------------
+Output
+
+C:\Users\user\Desktop\2013ICT26\ICT 2172\2016.04.28>CSharp2DArray.exe
+
+ Enter the FirstName and LastName : Bas
+ Abi
+
+ Enter the FirstName and LastName : Kul
+ Dushi
+
+ Enter the FirstName and LastName : CS
+ Sasi
+
+ Enter the FirstName and LastName : RS
+ Manoj
+
+ Enter the FirstName and LastName : VM
+ Thilo
+
+ Bas Abi
+ Kul Dushi
+ CS Sasi
+ RS Manoj
+ VM Thilo
+
+C:\Users\user\Desktop\2013ICT26\ICT 2172\2016.04.28>
+--------------------------------------------------------------------------------------------------------------------------------------
+In C# when we Declare a 2D Array we do not want to put [][] we can put rowsize and colsize inside []
+like [rowsize,colsize]

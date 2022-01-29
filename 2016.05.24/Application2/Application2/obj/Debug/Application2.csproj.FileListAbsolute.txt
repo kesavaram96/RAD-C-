@@ -1,0 +1,12 @@
+C:\Users\user\Desktop\2013ICT26\ICT 2172\2016.05.24\Application2\Application2\bin\Debug\Application2.exe.config
+C:\Users\user\Desktop\2013ICT26\ICT 2172\2016.05.24\Application2\Application2\bin\Debug\Application2.exe
+C:\Users\user\Desktop\2013ICT26\ICT 2172\2016.05.24\Application2\Application2\bin\Debug\Application2.pdb
+C:\Users\user\Desktop\2013ICT26\ICT 2172\2016.05.24\Application2\Application2\obj\Debug\Application2.csprojResolveAssemblyReference.cache
+C:\Users\user\Desktop\2013ICT26\ICT 2172\2016.05.24\Application2\Application2\obj\Debug\Application2.Form1.resources
+C:\Users\user\Desktop\2013ICT26\ICT 2172\2016.05.24\Application2\Application2\obj\Debug\Application2.Properties.Resources.resources
+C:\Users\user\Desktop\2013ICT26\ICT 2172\2016.05.24\Application2\Application2\obj\Debug\Application2.csproj.GenerateResource.Cache
+C:\Users\user\Desktop\2013ICT26\ICT 2172\2016.05.24\Application2\Application2\obj\Debug\Application2.exe
+C:\Users\user\Desktop\2013ICT26\ICT 2172\2016.05.24\Application2\Application2\obj\Debug\Application2.pdb
+F:\Notes1\ICT 2172\2016.05.24\Application2\Application2\bin\Debug\Application2.exe.config
+F:\Notes1\ICT 2172\2016.05.24\Application2\Application2\obj\Debug\Application2.exe
+F:\Notes1\ICT 2172\2016.05.24\Application2\Application2\obj\Debug\Application2.pdb

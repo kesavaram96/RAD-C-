@@ -1,0 +1,49 @@
+
+Task 1 :Using Generic class in C#
+--------------------------------------------------------------------------------------------------------------------------------------
+using System;
+class MyCollection<T>
+{
+	private T[] myarr =new T[100];
+	
+	public T this[int i]
+	{
+		get
+		{
+			return myarr[i];
+		}
+		set
+		{
+			myarr[i]=value;
+		}
+	}
+}
+
+class Program
+{
+	static void Main(string []args)
+	{
+		MyCollection<string> StCollect=new MyCollection<string>();
+		StCollect[0]="Hi,Good Morning!!! ";
+		Console.WriteLine(" "+StCollect[0]);
+		
+		MyCollection<int> IntCollect=new MyCollection<int>();
+		IntCollect[0]=24;
+		Console.WriteLine(" "+IntCollect[0]);
+		
+		MyCollection<bool> BoolCollect=new MyCollection<bool>();
+		BoolCollect[0]=true;
+		Console.WriteLine(" "+BoolCollect[0]);
+	}
+}
+--------------------------------------------------------------------------------------------------------------------------------------
+Output
+
+C:\Users\user\Desktop\2013ICT26\ICT 2172\2016.05.12>Program.exe 0
+ Hi,Good Morning!!!
+ 24
+ True
+
+C:\Users\user\Desktop\2013ICT26\ICT 2172\2016.05.12>
+
+--------------------------------------------------------------------------------------------------------------------------------------

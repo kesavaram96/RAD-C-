@@ -1,0 +1,36 @@
+
+
+Task 4 :Get two values from the user and calculate their sum
+--------------------------------------------------------------------------------------------------------------------------------------
+using System;
+class CSharpExample2
+{	
+
+	public static void Main()
+	{
+		int a,b,c;
+		Console.WriteLine(" Enter a Value for a : ");
+		a=int.Parse(Console.ReadLine());
+		Console.WriteLine(" Enter a Value for b : ");
+		b=int.Parse(Console.ReadLine());
+		c=a+b;
+		Console.WriteLine(" Value of {0}+{1} is : {2}",a,b,c);
+	}
+}
+--------------------------------------------------------------------------------------------------------------------------------------
+Output
+
+C:\Users\user\Desktop\2013ICT26\ICT 2172\2016.04.26>CSharpExample2.exe
+ Enter a Value for a :
+12
+ Enter a Value for b :
+24
+ Value of 12+24 is : 36
+
+C:\Users\user\Desktop\2013ICT26\ICT 2172\2016.04.26>
+--------------------------------------------------------------------------------------------------------------------------------------
+To get input 
+First declare a variable (Ex:int a)
+a=(Console.ReadLine());
+this is for string 
+To convert it into int int.Parse(Console.ReadLine());

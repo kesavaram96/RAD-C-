@@ -1,0 +1,8 @@
+C:\Users\user.Admin-THINK\Desktop\2016_07_07\2\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+L:\ICT_21\ICT 2172\2016_07_07\2\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+L:\ICT_21\ICT 2172\2016_07_07\2\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+L:\ICT_21\ICT 2172\2016_07_07\2\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+L:\ICT_21\ICT 2172\2016_07_07\2\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+L:\ICT_21\ICT 2172\2016_07_07\2\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+L:\ICT_21\ICT 2172\2016_07_07\2\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+L:\ICT_21\ICT 2172\2016_07_07\2\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb

@@ -1,0 +1,20 @@
+C:\Users\user\Desktop\2016_06_02\Error_Help_Provider\Error_Help_Provider\bin\Debug\Error_Help_Provider.exe.config
+C:\Users\user\Desktop\2016_06_02\Error_Help_Provider\Error_Help_Provider\bin\Debug\Error_Help_Provider.exe
+C:\Users\user\Desktop\2016_06_02\Error_Help_Provider\Error_Help_Provider\bin\Debug\Error_Help_Provider.pdb
+C:\Users\user\Desktop\2016_06_02\Error_Help_Provider\Error_Help_Provider\obj\Debug\Error_Help_Provider.csprojResolveAssemblyReference.cache
+C:\Users\user\Desktop\2016_06_02\Error_Help_Provider\Error_Help_Provider\obj\Debug\Error_Help_Provider.Form1.resources
+C:\Users\user\Desktop\2016_06_02\Error_Help_Provider\Error_Help_Provider\obj\Debug\Error_Help_Provider.Properties.Resources.resources
+C:\Users\user\Desktop\2016_06_02\Error_Help_Provider\Error_Help_Provider\obj\Debug\Error_Help_Provider.csproj.GenerateResource.Cache
+C:\Users\user\Desktop\2016_06_02\Error_Help_Provider\Error_Help_Provider\obj\Debug\Error_Help_Provider.exe
+C:\Users\user\Desktop\2016_06_02\Error_Help_Provider\Error_Help_Provider\obj\Debug\Error_Help_Provider.pdb
+C:\Users\user\Desktop\2016_06_02\Error_Help_Provider\Error_Help_Provider\obj\Debug\Error_Help_Provider.Form2.resources
+G:\ICT 21\ICT 2172\2016_06_02\Error_Help_Provider\Error_Help_Provider\bin\Debug\Error_Help_Provider.exe.config
+G:\ICT 21\ICT 2172\2016_06_02\Error_Help_Provider\Error_Help_Provider\obj\Debug\Error_Help_Provider.exe
+G:\ICT 21\ICT 2172\2016_06_02\Error_Help_Provider\Error_Help_Provider\obj\Debug\Error_Help_Provider.pdb
+G:\ICT 21\ICT 2172\2016_06_02\Error_Help_Provider\Error_Help_Provider\bin\Debug\Error_Help_Provider.exe
+G:\ICT 21\ICT 2172\2016_06_02\Error_Help_Provider\Error_Help_Provider\bin\Debug\Error_Help_Provider.pdb
+G:\ICT 21\ICT 2172\2016_06_02\Error_Help_Provider\Error_Help_Provider\obj\Debug\Error_Help_Provider.csprojResolveAssemblyReference.cache
+G:\ICT 21\ICT 2172\2016_06_02\Error_Help_Provider\Error_Help_Provider\obj\Debug\Error_Help_Provider.Form1.resources
+G:\ICT 21\ICT 2172\2016_06_02\Error_Help_Provider\Error_Help_Provider\obj\Debug\Error_Help_Provider.Form2.resources
+G:\ICT 21\ICT 2172\2016_06_02\Error_Help_Provider\Error_Help_Provider\obj\Debug\Error_Help_Provider.Properties.Resources.resources
+G:\ICT 21\ICT 2172\2016_06_02\Error_Help_Provider\Error_Help_Provider\obj\Debug\Error_Help_Provider.csproj.GenerateResource.Cache

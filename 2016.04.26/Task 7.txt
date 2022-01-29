@@ -1,0 +1,56 @@
+
+
+Task 7 :Using One Dimensial Array in C#
+--------------------------------------------------------------------------------------------------------------------------------------
+using System;
+class CSharpArray
+{	
+	public static void Main()
+	{
+		int [] numbers;
+		int a;
+		Console.WriteLine(" Enter the size of the Array : ");
+		a=int.Parse(Console.ReadLine());
+		numbers=new int[a];
+		
+		for(int i=0;i<numbers.Length;i++)
+		{
+			Console.WriteLine(" Enter the element {0} : ",(i+1));
+			numbers[i]=int.Parse(Console.ReadLine());
+		}
+		Console.WriteLine();
+		for(int i=0;i<numbers.Length;i++)
+		{
+			Console.Write(numbers[i]+" ");
+		}
+		
+		Console.WriteLine();
+		string [] names={"Jeny","Jack","Mohmad","Villiam"};
+		foreach(string name in names)
+		{
+			Console.WriteLine(name);
+		} 
+	}
+	
+}
+--------------------------------------------------------------------------------------------------------------------------------------
+Output
+
+C:\Users\user\Desktop\2013ICT26\ICT 2172\2016.04.26>CSharpArray.exe
+ Enter the size of the Array :
+3
+ Enter the element 1 :
+1
+ Enter the element 2 :
+2
+ Enter the element 3 :
+3
+
+1 2 3
+Jeny
+Jack
+Mohmad
+Villiam
+
+C:\Users\user\Desktop\2013ICT26\ICT 2172\2016.04.26>
+--------------------------------------------------------------------------------------------------------------------------------------

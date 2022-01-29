@@ -1,0 +1,39 @@
+C:\Users\user.admin-THINK\Desktop\2016_04_19\pro1\pro1\bin\Debug\pro1.exe.config
+C:\Users\user.admin-THINK\Desktop\2016_04_19\pro1\pro1\bin\Debug\pro1.exe
+C:\Users\user.admin-THINK\Desktop\2016_04_19\pro1\pro1\bin\Debug\pro1.pdb
+C:\Users\user.admin-THINK\Desktop\2016_04_19\pro1\pro1\obj\Debug\pro1.csprojResolveAssemblyReference.cache
+C:\Users\user.admin-THINK\Desktop\2016_04_19\pro1\pro1\obj\Debug\pro1.Properties.Resources.resources
+C:\Users\user.admin-THINK\Desktop\2016_04_19\pro1\pro1\obj\Debug\pro1.csproj.GenerateResource.Cache
+C:\Users\user.admin-THINK\Desktop\2016_04_19\pro1\pro1\obj\Debug\pro1.exe
+C:\Users\user.admin-THINK\Desktop\2016_04_19\pro1\pro1\obj\Debug\pro1.pdb
+C:\Users\user.admin-THINK\Desktop\2016_04_19\pro1\pro1\obj\Debug\pro1.cal.resources
+E:\ICT\ICT 21\ICT 2172\2016_04_19\pro1\pro1\bin\Debug\pro1.exe.config
+E:\ICT\ICT 21\ICT 2172\2016_04_19\pro1\pro1\obj\Debug\pro1.exe
+E:\ICT\ICT 21\ICT 2172\2016_04_19\pro1\pro1\obj\Debug\pro1.pdb
+E:\ICT\ICT 21\ICT 2172\2016_04_19\pro1\pro1\bin\Debug\pro1.exe
+E:\ICT\ICT 21\ICT 2172\2016_04_19\pro1\pro1\bin\Debug\pro1.pdb
+E:\ICT\ICT 21\ICT 2172\2016_04_19\pro1\pro1\obj\Debug\pro1.csprojResolveAssemblyReference.cache
+E:\ICT\ICT 21\ICT 2172\2016_04_19\pro1\pro1\obj\Debug\pro1.cal.resources
+E:\ICT\ICT 21\ICT 2172\2016_04_19\pro1\pro1\obj\Debug\pro1.Properties.Resources.resources
+E:\ICT\ICT 21\ICT 2172\2016_04_19\pro1\pro1\obj\Debug\pro1.csproj.GenerateResource.Cache
+F:\ICT 21\ICT 2172\2016_04_19\pro1\pro1\bin\Debug\pro1.exe.config
+F:\ICT 21\ICT 2172\2016_04_19\pro1\pro1\obj\Debug\pro1.exe
+F:\ICT 21\ICT 2172\2016_04_19\pro1\pro1\obj\Debug\pro1.pdb
+G:\ICT 21\ICT 2172\2016_04_19\pro1\pro1\bin\Debug\pro1.exe.config
+G:\ICT 21\ICT 2172\2016_04_19\pro1\pro1\obj\Debug\pro1.exe
+G:\ICT 21\ICT 2172\2016_04_19\pro1\pro1\obj\Debug\pro1.pdb
+C:\Users\user\Desktop\2016_05_24\pro1\pro1\bin\Debug\pro1.exe.config
+C:\Users\user\Desktop\2016_05_24\pro1\pro1\obj\Debug\pro1.exe
+C:\Users\user\Desktop\2016_05_24\pro1\pro1\obj\Debug\pro1.pdb
+C:\Users\user\Desktop\2016_05_24\pro1\pro1\bin\Debug\pro1.exe
+C:\Users\user\Desktop\2016_05_24\pro1\pro1\bin\Debug\pro1.pdb
+C:\Users\user\Desktop\2016_05_24\pro1\pro1\obj\Debug\pro1.csprojResolveAssemblyReference.cache
+C:\Users\user\Desktop\2016_05_24\pro1\pro1\obj\Debug\pro1.cal.resources
+C:\Users\user\Desktop\2016_05_24\pro1\pro1\obj\Debug\pro1.Properties.Resources.resources
+C:\Users\user\Desktop\2016_05_24\pro1\pro1\obj\Debug\pro1.csproj.GenerateResource.Cache
+H:\pro1\pro1\bin\Debug\pro1.exe.config
+H:\pro1\pro1\obj\Debug\pro1.exe
+H:\pro1\pro1\obj\Debug\pro1.pdb
+E:\ICT\ICT 21\ICT 2172\2016_05_24\1\pro1\pro1\bin\Debug\pro1.exe.config
+E:\ICT\ICT 21\ICT 2172\2016_05_24\1\pro1\pro1\obj\Debug\pro1.exe
+E:\ICT\ICT 21\ICT 2172\2016_05_24\1\pro1\pro1\obj\Debug\pro1.pdb

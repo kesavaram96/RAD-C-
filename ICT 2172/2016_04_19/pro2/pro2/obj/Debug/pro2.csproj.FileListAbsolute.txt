@@ -1,0 +1,12 @@
+C:\Users\user.admin-THINK\Desktop\2016_04_19\pro2\pro2\bin\Debug\pro2.exe.config
+C:\Users\user.admin-THINK\Desktop\2016_04_19\pro2\pro2\obj\Debug\pro2.csprojResolveAssemblyReference.cache
+C:\Users\user.admin-THINK\Desktop\2016_04_19\pro2\pro2\obj\Debug\pro2.Form1.resources
+C:\Users\user.admin-THINK\Desktop\2016_04_19\pro2\pro2\obj\Debug\pro2.Properties.Resources.resources
+C:\Users\user.admin-THINK\Desktop\2016_04_19\pro2\pro2\obj\Debug\pro2.csproj.GenerateResource.Cache
+C:\Users\user.admin-THINK\Desktop\2016_04_19\pro2\pro2\bin\Debug\pro2.exe
+C:\Users\user.admin-THINK\Desktop\2016_04_19\pro2\pro2\bin\Debug\pro2.pdb
+C:\Users\user.admin-THINK\Desktop\2016_04_19\pro2\pro2\obj\Debug\pro2.exe
+C:\Users\user.admin-THINK\Desktop\2016_04_19\pro2\pro2\obj\Debug\pro2.pdb
+E:\ICT\ICT 21\ICT 2172\2016_04_19\pro2\pro2\bin\Debug\pro2.exe.config
+E:\ICT\ICT 21\ICT 2172\2016_04_19\pro2\pro2\obj\Debug\pro2.exe
+E:\ICT\ICT 21\ICT 2172\2016_04_19\pro2\pro2\obj\Debug\pro2.pdb

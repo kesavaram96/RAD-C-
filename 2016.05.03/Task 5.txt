@@ -1,0 +1,39 @@
+
+Task 5 :Do some assaignments Using out values in C#
+--------------------------------------------------------------------------------------------------------------------------------------
+using System;
+class OutExample2
+{
+	
+	public static void GetDetails(out string stname,out string stregno,out int stage)
+	{
+		stname="Kushan";
+		stregno="2010/ICT/28";
+		stage=28;
+	}
+	
+	public static void Main()
+	{
+		string stname;
+		string stregno;
+		int stage;
+		
+		GetDetails(out stname,out stregno,out stage);
+		
+		Console.WriteLine(" After calling GetDetails ");
+		Console.WriteLine(" Name is : {0} ",stname);
+		Console.WriteLine(" Registration no is : {0} ",stregno);
+		Console.WriteLine(" Age is : {0} ",stage);
+	}
+}
+--------------------------------------------------------------------------------------------------------------------------------------
+C:\Users\user\Desktop\2013ICT26\ICT 2172\2016.05.03>OutExample2.exe
+ After calling GetDetails
+ Name is : Kushan
+ Registration no is : 2010/ICT/28
+ Age is : 28
+
+C:\Users\user\Desktop\2013ICT26\ICT 2172\2016.05.03>
+--------------------------------------------------------------------------------------------------------------------------------------
+In here we do not want to intialize.
+Key word for Out variable is : out

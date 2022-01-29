@@ -1,0 +1,39 @@
+
+
+Task 5 :Using if else in C#
+--------------------------------------------------------------------------------------------------------------------------------------
+using System;
+class CSharpExample2
+{	
+
+	public static void Main()
+	{
+		int a,b,c;
+		Console.WriteLine(" Enter a Value for a : ");
+		a=int.Parse(Console.ReadLine());
+		Console.WriteLine(" Enter a Value for b : ");
+		b=int.Parse(Console.ReadLine());
+		
+		if(a>b)
+		{
+			Console.WriteLine(" {0} grater than {1} ",a,b);
+		}
+		else
+		{
+			Console.WriteLine(" {0} grater than {1} ",b,a);
+		}
+	}
+}
+--------------------------------------------------------------------------------------------------------------------------------------
+Output
+
+C:\Users\user\Desktop\2013ICT26\ICT 2172\2016.04.26>CSharpExample2.exe
+ Enter a Value for a :
+12
+ Enter a Value for b :
+24
+
+ 24 grater than 12
+
+C:\Users\user\Desktop\2013ICT26\ICT 2172\2016.04.26>
+--------------------------------------------------------------------------------------------------------------------------------------

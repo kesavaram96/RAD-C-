@@ -1,0 +1,7 @@
+DLL-Dynamic Link Library
+
+lib-static
+dll-dynamic
+
+creating dll using cmd
+CSC /target:library /out:filename.dll classname.cs 

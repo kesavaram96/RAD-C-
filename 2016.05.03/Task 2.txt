@@ -1,0 +1,40 @@
+
+Task 2 :Using referance values in C#
+--------------------------------------------------------------------------------------------------------------------------------------
+using System;
+class RefExample
+{
+	public static void MyRefMethod(ref int i)
+	{
+		i = i + 66 ;
+	}
+	
+	public static void MyMethod(int i)
+	{
+		i = i + 66 ;
+	}
+	
+	public static void Main()
+	{
+		int value=2;
+		Console.WriteLine(" Before calling MyMethod, Value is : {0} ",value);
+		MyMethod(value);
+		Console.WriteLine(" After calling MyMethod, Value is : {0} ",value);
+		// MyRefMethod(value);
+		// Console.WriteLine(" After calling MyRefMethod without referance value , Value is : {0} ",value);
+		MyRefMethod(ref value);
+		Console.WriteLine(" After calling MyRefMethod with referance value , Value is : {0} ",value);
+	}
+}
+--------------------------------------------------------------------------------------------------------------------------------------
+C:\Users\user\Desktop\2013ICT26\ICT 2172\2016.05.03>RefExample.exe
+ Before calling MyMethod, Value is : 2
+ After calling MyMethod, Value is : 2
+ After calling MyRefMethod with referance value , Value is : 68
+
+C:\Users\user\Desktop\2013ICT26\ICT 2172\2016.05.03>
+
+--------------------------------------------------------------------------------------------------------------------------------------
+In here when we use value varaible as normal variable and when we call the MyMethod the value not been changed
+but when we use value varaible as reference variable and when we call the MyRefMethod the value has been changed
+Keyword for reference variable is ref

@@ -1,0 +1,35 @@
+
+
+Task 3 :Passing arguments in C#
+--------------------------------------------------------------------------------------------------------------------------------------
+using System;
+class CSharpExample
+{	
+
+	public static void Main(String []args)
+	{
+		Console.WriteLine(" Hi C# ");
+		Console.WriteLine(" \n Arguments are  \n ");
+		for(int i=0;i<args.Length;i++)
+		{
+			Console.WriteLine(args[i]);
+		}
+	}
+}
+--------------------------------------------------------------------------------------------------------------------------------------
+Output
+
+C:\Users\user\Desktop\2013ICT26\ICT 2172\2016.04.26>CSharpExample.exe 12 amma 3 d
+ Hi C#
+
+ Arguments are
+
+12
+amma
+3
+d
+
+C:\Users\user\Desktop\2013ICT26\ICT 2172\2016.04.26>
+
+--------------------------------------------------------------------------------------------------------------------------------------
+When we use system namespace we do not need to put in command

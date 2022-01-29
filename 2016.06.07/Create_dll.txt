@@ -1,0 +1,9 @@
+create dll file
+project -> classlibrary
+create a class and static methods
+got solution explorer and show all tab and there will be bin obj tab will create
+and click consoleApplication and build it.
+
+when we call tha dll file we want add it to referance
+
+   

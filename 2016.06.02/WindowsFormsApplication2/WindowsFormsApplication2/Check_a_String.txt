@@ -1,0 +1,2 @@
+﻿Check a string is empty or not in c#
+if(string.IsNullOrEmpty(str) || string.IsNullOrWhiteSpace(str))

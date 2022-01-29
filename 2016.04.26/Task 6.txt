@@ -1,0 +1,61 @@
+
+
+Task 6 :Calling a method in main method in C#
+--------------------------------------------------------------------------------------------------------------------------------------
+using System;
+class CSharpExample3
+{	
+
+	public static void Main()
+	{
+		int a,b;
+		Console.WriteLine(" Enter a Value for a : ");
+		a=int.Parse(Console.ReadLine());
+		Console.WriteLine(" Enter a Value for b : ");
+		b=int.Parse(Console.ReadLine());
+		
+		CSharpExample3 C=new CSharpExample3();
+		Console.WriteLine(" {0}+{1}={2} ",a,b,C.Add(a,b));
+		Console.WriteLine(" {0}-{1}={2} ",a,b,C.Substract(a,b));
+		Console.WriteLine(" {0}*{1}={2} ",a,b,C.Multiply(a,b));
+		Console.WriteLine(" {0}/{1}={2} ",a,b,C.Divide(a,b));
+		
+	}
+	
+	public int Add(int a,int b)
+	{
+		return a+b;
+	}
+	
+	public int Substract(int a,int b)
+	{
+		return a-b;
+	}
+	
+	public int Multiply(int a,int b)
+	{
+		return a*b;
+	}
+	
+	public double Divide(int a,int b)
+	{
+		return (double)a/(double)b;
+	}
+}
+--------------------------------------------------------------------------------------------------------------------------------------
+Output
+
+C:\Users\user\Desktop\2013ICT26\ICT 2172\2016.04.26>CSharpExample3.exe
+ Enter a Value for a :
+12
+ Enter a Value for b :
+24
+ 12+24=36
+ 12-24=-12
+ 12*24=288
+ 12/24=0.5
+
+C:\Users\user\Desktop\2013ICT26\ICT 2172\2016.04.26>
+
+--------------------------------------------------------------------------------------------------------------------------------------
+Method name should be start in Capital letters

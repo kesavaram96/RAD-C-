@@ -1,0 +1,16 @@
+Creating a for inside a form
+Goto form properties -> isMdiContainer->coding:F1.MdiParent = Parent form;
+
+
+If we want to call a form only at one time 
+Create a object for a suitable class/form as global variable
+if(F1==null)
+{
+    F1= new Form3();
+    F1.MdiParent = this;
+	F1.Show();
+}
+else
+{
+    F1.Activate();
+}

@@ -1,0 +1,37 @@
+
+Task 2 :Using Delegate technique in C#
+--------------------------------------------------------------------------------------------------------------------------------------
+using System;
+class DelgateEx
+{
+	//Declare a delegate
+	private delegate void GetMessage(string msg);
+	
+	public static void MyMessage(string mymsg)
+	{
+		Console.WriteLine(mymsg);
+	}
+	
+	public static void Main()
+	{
+		// Instantiate the delegate and Initialize it 
+			GetMessage gmsg=new GetMessage(MyMessage);
+		//or
+			GetMessage gmsg1=MyMessage;
+		//Call the delegate
+		gmsg(" Hello delegate ");
+		gmsg1(" Have a nice day! ");
+	}
+}
+--------------------------------------------------------------------------------------------------------------------------------------
+Output
+
+C:\Users\user\Desktop\2013ICT26\ICT 2172\2016.05.12>DelgateEx.exe
+ Hello delegate
+ Have a nice day!
+
+C:\Users\user\Desktop\2013ICT26\ICT 2172\2016.05.12>
+
+--------------------------------------------------------------------------------------------------------------------------------------
+KeyWord is delegate
+We use this technique for create a representative for a method call that method through that representative 
